@@ -12,7 +12,6 @@ Click the link to view the page: (https://pwa-jxh-d2db014a6573.herokuapp.com/)
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
 - [Technologies](#technologies)
 
 
